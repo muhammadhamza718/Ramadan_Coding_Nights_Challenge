@@ -1,0 +1,16 @@
+{
+  "name": "my-todo-list-771188",
+  "version": "1.4.2",
+  "description": "this is a simple todo list",
+  "license": "ISC",
+  "author": "Muhammad hamza",
+  "type": "commonjs",
+  "main": "todo.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "todo-cli-7718": "^1.4.2"
+  },
+  "devDependencies": {}
+}
