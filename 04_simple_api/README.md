@@ -25,8 +25,8 @@ A RESTful API service built with FastAPI that provides random side hustle ideas 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/money-motivation-api.git
-cd money-motivation-api
+git clone https://github.com/muhammadhamza718/Ramadan_Coding_Nights_Challenge/04_simple_api.git
+cd 04_simple_api
 ```
 
 2. Create a virtual environment:
