@@ -26,7 +26,7 @@ A modern, user-friendly Streamlit application for viewing and converting times a
 1. Clone the repository:
    ```bash
    git clone https://github.com/muhammadhamza718/Ramadan_Coding_Nights_Challenge/06_time_zone_app.git
-   cd time-zone-app
+   cd 06_time_zone_app
    ```
 
 2. Install dependencies:
